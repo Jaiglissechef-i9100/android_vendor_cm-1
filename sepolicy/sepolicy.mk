@@ -4,7 +4,7 @@
 #
 
 BOARD_SEPOLICY_DIRS += \
-    vendor/beanstalk/sepolicy
+    vendor/cm/sepolicy
 
 BOARD_SEPOLICY_UNION += \
     file.te \
